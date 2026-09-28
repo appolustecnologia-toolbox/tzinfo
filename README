@@ -1,3 +1,5 @@
+*Fork* de tzinfo/tzinfo (https://github.com/tzinfo/tzinfo), branch 0.3, a partir do commit b760e19 (https://github.com/tzinfo/tzinfo/commit/b760e19797f424649faaf45be8166c34a57624b2). Mantido aqui para uso no projeto saúde.
+
 = TZInfo -- Daylight-savings aware timezone support for Ruby
 
 TZInfo[http://tzinfo.github.io] uses the IANA Time Zone Database 
